@@ -4,18 +4,252 @@ title: Calendar
 uid: f3b901f4-d102-43b4-13d7-65882a43aed7
 ---
 
-| SES # | TOPICS | TYPES OF NEGOTIATIONS | KEY DATES |
-| --- | --- | --- | --- |
-| 1 |  {{< br >}}{{< br >}} _Anchoring and First Offers_ {{< br >}}{{< br >}} _Street Streaker_ {{< br >}}{{< br >}}  | Introduction to distributive bargaining | Assignment 1 due |
-| 2 | _Salt Harbor_ | Distributive bargaining | Assignment 2 due |
-| 3 | _Oil-Price Negotiation_ | Repeated interactions | Assignment 3 due |
-| 4 |  {{< br >}}{{< br >}} _Nelson Contracting_ {{< br >}}{{< br >}} _CP Hong Kong vs. MegaMarket U.S.A._ {{< br >}}{{< br >}}  | Introduction to integrative bargaining |  {{< br >}}{{< br >}} Assignment 4 due {{< br >}}{{< br >}} Begin e-mail negotiation on _CP Hong Kong vs. MegaMarket U.S.A_. {{< br >}}{{< br >}}  |
-| 5 | _Jessie Jumpshot - Women's  {{< br >}}National Basketball League_ {{< br >}}{{< br >}}  | Contingency contracts | Assignment 5 due |
-| 6 | _The Rothman Art Collection_ | Fair division | Assignment 6 due |
-| 7 | _Stakes of Engagement_ | Balanced concerns | Assignment 7 due |
-| 8 | _Alphexo vs. Betonn Corporation_ | Integrative bargaining | Assignment 8 due |
-| 9 | _WineMaster.com_ | Integrative bargaining | Assignment 9 due |
-| 10 | _Aerospace Investment_ | Balanced concerns | Assignment 10 due |
-| 11 | _Flagship_ | Within and between teams negotiations |  {{< br >}}{{< br >}} Assignment 11 due {{< br >}}{{< br >}} _CP Hong Kong vs. MegaMarket U.S.A._ email negotiation due {{< br >}}{{< br >}}  |
-| 12 | _Welsh Water_ | Four party negotiations, sequencing | Assignment 12 due |
-| 13 |  {{< br >}}{{< br >}} Debrief _Welsh Water_ and _CP Hong Kong vs. MegaMarket U.S.A._ {{< br >}}{{< br >}} Course Recap {{< br >}}{{< br >}}  | Integrative bargaining |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+TYPES OF NEGOTIATIONS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Anchoring and First Offers_
+
+_Street Streaker_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to distributive bargaining
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+_Salt Harbor_
+{{< tdclose >}}
+{{< tdopen >}}
+Distributive bargaining
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+_Oil-Price Negotiation_
+{{< tdclose >}}
+{{< tdopen >}}
+Repeated interactions
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Nelson Contracting_
+
+_CP Hong Kong vs. MegaMarket U.S.A._
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to integrative bargaining
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Assignment 4 due
+
+Begin e-mail negotiation on _CP Hong Kong vs. MegaMarket U.S.A_.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+_Jessie Jumpshot - Women's  
+National Basketball League_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Contingency contracts
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 5 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+_The Rothman Art Collection_
+{{< tdclose >}}
+{{< tdopen >}}
+Fair division
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 6 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+_Stakes of Engagement_
+{{< tdclose >}}
+{{< tdopen >}}
+Balanced concerns
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 7 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+_Alphexo vs. Betonn Corporation_
+{{< tdclose >}}
+{{< tdopen >}}
+Integrative bargaining
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 8 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+_WineMaster.com_
+{{< tdclose >}}
+{{< tdopen >}}
+Integrative bargaining
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 9 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+_Aerospace Investment_
+{{< tdclose >}}
+{{< tdopen >}}
+Balanced concerns
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 10 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+_Flagship_
+{{< tdclose >}}
+{{< tdopen >}}
+Within and between teams negotiations
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Assignment 11 due
+
+_CP Hong Kong vs. MegaMarket U.S.A._ email negotiation due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+_Welsh Water_
+{{< tdclose >}}
+{{< tdopen >}}
+Four party negotiations, sequencing
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 12 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Debrief _Welsh Water_ and _CP Hong Kong vs. MegaMarket U.S.A._
+
+Course Recap
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Integrative bargaining
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
